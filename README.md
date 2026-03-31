@@ -1,4 +1,4 @@
-# MI-GAD: Code for reviewers
+# MI-GAD: Code for AAAI 2026 "Beyond Local Patterns: Multiscale Inconsistency Learning for Graph Anomaly Detection"
 
 
 
